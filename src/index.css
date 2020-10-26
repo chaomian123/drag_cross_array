@@ -1,0 +1,27 @@
+.f-f {
+  display: flex;
+  align-items: center;
+}
+
+.box {
+  padding: 6px;
+  box-sizing: border-box;
+  font-size: 12px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid #cccccc;
+  margin-right: 10px;
+  position: relative;
+}
+.delbtn {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+.t1 {
+  color: black;
+}
+.t2 {
+  color: blue;
+  margin-top: 4px;
+}
